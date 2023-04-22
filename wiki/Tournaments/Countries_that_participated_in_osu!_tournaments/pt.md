@@ -239,7 +239,7 @@ Este artigo lista os países que participaram nos vários torneios de osu!, Taik
 | 3 | ::{ flag=CN }:: China | 1 |  |  |
 | 4 | ::{ flag=BR }:: Brasil |  | 1 |  |
 | 4 | ::{ flag=JP }:: Japão |  | 1 |  |
-| 4 | ::{ flag=PH }:: Filipinas |  | 1 |  |
+| 4 | ::{ flag=PH }:: Filipinas | 1 | 1 |  |
 | 4 | ::{ flag=TH }:: Tailândia |  | 1 |  |
 | 5 | ::{ flag=MY }:: Malásia |  |  | 3 |
 | 6 | ::{ flag=GB }:: United Kingdom |  |  | 1 |

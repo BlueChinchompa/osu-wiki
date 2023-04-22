@@ -91,7 +91,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | 3 | ::{ flag=US }:: Estados Unidos | 1 | 3 | 2 |
 | 4 | ::{ flag=CN }:: China | 1 | 2 | 2 |
 | 5 | ::{ flag=JP }:: Japón |  | 2 |  |
-| 5 | ::{ flag=PH }:: Filipinas |  | 2 |  |
+| 5 | ::{ flag=PH }:: Filipinas | 1 | 2 |  |
 | 6 | ::{ flag=MY }:: Malasia |  | 1 | 5 |
 | 7 | ::{ flag=TH }:: Tailandia |  | 1 |  |
 | 8 | ::{ flag=ID }:: Indonesia |  |  | 1 |

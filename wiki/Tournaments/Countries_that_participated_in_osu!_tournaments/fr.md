@@ -87,7 +87,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | 3 | ::{ flag=US }:: États-Unis | 1 | 3 | 2 |
 | 4 | ::{ flag=CN }:: Chine | 1 | 2 | 2 |
 | 5 | ::{ flag=JP }:: Japon |  | 2 |  |
-| 5 | ::{ flag=PH }:: Philippines |  | 2 |  |
+| 5 | ::{ flag=PH }:: Philippines | 1 | 2 |  |
 | 6 | ::{ flag=MY }:: Malaisie |  | 1 | 5 |
 | 7 | ::{ flag=TH }:: Thaïlande |  | 1 |  |
 | 8 | ::{ flag=ID }:: Indonésie |  |  | 1 |

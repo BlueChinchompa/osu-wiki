@@ -87,7 +87,7 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 | 3 | ::{ flag=US }:: Amerika Serikat | 1 | 3 | 2 |
 | 4 | ::{ flag=CN }:: Tiongkok | 1 | 2 | 2 |
 | 5 | ::{ flag=JP }:: Jepang |  | 2 |  |
-| 5 | ::{ flag=PH }:: Filipina |  | 2 |  |
+| 5 | ::{ flag=PH }:: Filipina | 1 | 2 |  |
 | 6 | ::{ flag=MY }:: Malaysia |  | 1 | 5 |
 | 7 | ::{ flag=TH }:: Thailand |  | 1 |  |
 | 8 | ::{ flag=ID }:: Indonesia |  |  | 1 |
