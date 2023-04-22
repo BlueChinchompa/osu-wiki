@@ -87,7 +87,7 @@ In diesem Artikel werden Länder aufgelistet, die an offiziellen Turnieren in [o
 | 3 | ::{ flag=US }:: Vereinigte Staaten | 1 | 3 | 2 |
 | 4 | ::{ flag=CN }:: China | 1 | 2 | 2 |
 | 5 | ::{ flag=JP }:: Japan |  | 2 |  |
-| 5 | ::{ flag=PH }:: Philippinen |  | 2 |  |
+| 5 | ::{ flag=PH }:: Philippinen | 1 | 2 |  |
 | 6 | ::{ flag=MY }:: Malaysia |  | 1 | 5 |
 | 7 | ::{ flag=TH }:: Thailand |  | 1 |  |
 | 8 | ::{ flag=ID }:: Indonesien |  |  | 1 |
